@@ -16,4 +16,5 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/hawkins-sanborn](https://www.linkedin.com/in/hawkins-sanborn-a69878223/)
+[LinkedIn](https://www.linkedin.com/in/hawkins-sanborn-a69878223/)
+
