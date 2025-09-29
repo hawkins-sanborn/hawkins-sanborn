@@ -4,7 +4,7 @@
 <h2>R Projects:</h2>
 
   - <b> Tariff Analysis Project </b>
-  - [Data Centers and Electricity Analysis]([https://github.com/hawkins-sanborn/electricai](https://hawkins123.quarto.pub/data-center-energy-project/energy.data.html))
+  - [Data Centers and Electricity Analysis](https://hawkins123.quarto.pub/data-center-energy-project/energy.data.html)
 
 
 
