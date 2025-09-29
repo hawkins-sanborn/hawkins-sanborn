@@ -6,7 +6,7 @@
 - <b> Tariff Analysis Project </b>
   - link
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]([https://github.com/hawkins-sanborn/electricai])
+  - [Data Centers and Electricity Analysis)]([https://github.com/hawkins-sanborn/electricai])
 
 
 <h2> 🤳 Connect with me:</h2>
